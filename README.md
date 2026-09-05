@@ -85,7 +85,7 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/Google%20Cloud.png" alt="Google Cloud" width="48" height="48" /><br />Google Cloud</td>
     <td align="center" width="140"><img src="assets/logo/tech/Cloudflare.png" alt="Cloudflare" width="48" height="48" /><br />Cloudflare</td>
     <td align="center" width="140"><img src="assets/logo/tech/GitHub%20Actions.png" alt="GitHub Actions" width="48" height="48" /><br />GitHub Actions</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Gradle.png" alt="Gradle" width="48" height="48" /><br />Gradle</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Gradle-readable.png" alt="Gradle" width="48" height="48" /><br />Gradle</td>
   </tr>
 </table>
 
